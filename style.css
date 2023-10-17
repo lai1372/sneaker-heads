@@ -51,16 +51,16 @@ p {
 }
 
 a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 #jordans-1 {
-  border-right: #6d00fb 0.5em solid;
+  box-shadow: 7px 2px 5px #6d00fb;
 }
 
 #jordans-2 {
-  border-left: #fb4040 0.5em solid;
+  box-shadow: 7px 2px 5px #fb4040;
 }
 
 #jordans-1-desc {
